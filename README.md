@@ -295,8 +295,8 @@ Open:
 
 ---
 
-## ⭐ Final Notes
+AUTHOR 
 
-This README is **copy‑paste ready** and GitHub‑friendly. You now have a clean, scalable backend foundation for real‑time AI systems.
+DISHA CHAKRABORTY
+LinkedIn- https://www.linkedin.com/in/disha-chakraborty-283465291/
 
-Happy building! 🎉
